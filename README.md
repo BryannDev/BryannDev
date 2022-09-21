@@ -1,10 +1,10 @@
- <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/bryan-soares-7bb5061ab"><i>Bryan Soares dos Santos</i></a> 😃️</h1>
+ <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/bryan-soares-7bb5061ab"><i>Bryan Soares</i></a> 😃️</h1>
  <h4>Cursando Analise e Desenvolvimento de Sistemas. Realizo também diversos cursos para ampliar meu conhecimento e assim me tornar um grande desenvolvedor Front End. Com conhecimentos em HTML5, CSS3 e estudando JavaScript.😎</h4>
 
 
 <div align="center">
   <a href="https://github.com/BryannDev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BryannDev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    
    
   </a>
 </div>
@@ -26,11 +26,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
