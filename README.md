@@ -1,5 +1,5 @@
- <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/bryan-soares-7bb5061ab"><i>Bryan Soares</i></a> 😃️</h1>
- <h4>Meu nome é Bryan, atualmente com 21 anos, resido na cidade de Suzano-Sp. No presente momento, cursando análise e desenvolvimento de sistemas pela universidade Anhembi Morumbi. Busco sempre aperfeiçoamento realizando diversos cursos e projetos utilizando HTML, CSS, JavaScript e ReactJS. Pontual e focado com meus objetivos, busco a melhor forma de exercer minhas atividades, otimizando tempo e realizando minhas obrigações com responsabilidade.
+ <h1 align="center">Hello how are you? I'm <a href="https://www.linkedin.com/in/bryan-soares-7bb5061ab"><i>Bryan Soares</i></a> 😃️</h1>
+ <h4>My name is Bryan, currently 21 years old, I live in the city of Suzano-Sp. Currently, studying systems analysis and development at Anhembi Morumbi University. I always seek improvement by taking various courses and projects using HTML, CSS, JavaScript and ReactJS. Punctual and focused on my goals, I seek the best way to carry out my activities, optimizing time and carrying out my duties responsibly.
 😎</h4>
 
 <div align="center" valign="top"><br>
