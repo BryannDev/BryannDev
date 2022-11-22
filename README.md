@@ -1,4 +1,4 @@
- <h1 align="center">Hello how are you? I'm <a href="https://www.linkedin.com/in/bryan-soares-7bb5061ab"><i>Bryan Soares</i></a> 😃️</h1>
+ <h1 align="center">Hello, how are you? I'm <a href="https://www.linkedin.com/in/bryan-soares-7bb5061ab"><i>Bryan Soares</i></a> 😃️</h1>
  <h4>My name is Bryan, currently 21 years old, I live in the city of Suzano-Sp. Currently, studying systems analysis and development at Anhembi Morumbi University. I always seek improvement by taking various courses and projects using HTML, CSS, JavaScript and ReactJS. Punctual and focused on my goals, I seek the best way to carry out my activities, optimizing time and carrying out my duties responsibly.
 😎</h4>
 
