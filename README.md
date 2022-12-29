@@ -11,4 +11,4 @@ My name is Bryan, currently 21 years old, I live in the city of Suzano-Sp. Curre
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanndev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryanndevsao_/?next=%2F)
 <div> A little about my life;</div>
-<div> Student and competitor of Brazilian jiu-jitsu, I seek to apply the focus and discipline that sport provides to all areas of my life. <a href="https://bryan-paixao.netlify.app/"><i>Bryan Soares.</div> (👈🏿see some of my training center.)
+<div> Student and competitor of Brazilian jiu-jitsu, I seek to apply the focus and discipline that sport provides to all areas of my life. <a href="https://bryan-paixaosite.netlify.app/"><i>Bryan Soares.</div> (👈🏿see some of my training center.)
